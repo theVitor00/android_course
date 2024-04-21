@@ -2,5 +2,5 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="amarelo">#FFFF00</color>
+    <color name="cor_botoes">#52ABD3</color>
 </resources>
